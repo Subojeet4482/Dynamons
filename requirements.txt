@@ -1,0 +1,7 @@
+flask
+opencv-python
+numpy
+requests
+pillow
+urllib3
+sqlite3-bro
