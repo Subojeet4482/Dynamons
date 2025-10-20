@@ -1,6 +1,8 @@
+setuptools>=68.0.0
+wheel
 flask==3.1.2
 opencv-python==4.12.0.88
-numpy==1.25.2   # <= Isko change karo, 2.3.4 mat use karo
+numpy==1.22.4
 requests==2.32.5
 pillow==12.0.0
 urllib3==2.5.0
