@@ -1,6 +1,6 @@
 flask==3.1.2
 opencv-python==4.12.0.88
-numpy==2.3.4
+numpy==1.25.2   # <= Isko change karo, 2.3.4 mat use karo
 requests==2.32.5
 pillow==12.0.0
 urllib3==2.5.0
